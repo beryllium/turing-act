@@ -1,0 +1,20 @@
+{
+    "name": "beryllium/turing-act",
+    "type": "project",
+    "require": {
+        "sculpin/sculpin": "3.x",
+        "robloach/component-installer": "dev-master",
+        "components/revealjs": "dev-master"
+    },
+    "config": {
+        "component-dir": "source/components"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kevin Boyd",
+            "email": "kevin.boyd@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
